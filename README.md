@@ -1,7 +1,7 @@
 # git_test
 # git 사용방법 정리
 
-* 키워드 정리
+* 사용법
 1. github Web에서 프로젝트를 생성한다.그 후 프로젝트 주소를 복사해 둔다.
 2. mkdir xxx : xxx 디렉토리를 만든다.
    - cd xxx : xxx 디렉토리로 이동한다.
@@ -13,3 +13,8 @@
 6. git push origin master
    - git ID/PW 를 입력하면
 7. github 해당 프로젝트에 작성한 abc 파일이 업로드 된다.
+
+
+
+* 키워드 정리
+- 원하는 디렉토리에서 git clone 해당 프로젝트 주소 : 해당 프로젝트를 원하는 디렉토리에 복사한다.

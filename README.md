@@ -18,3 +18,8 @@
 
 * 키워드 정리
 - 원하는 디렉토리에서 git clone 해당 프로젝트 주소 : 해당 프로젝트를 원하는 디렉토리에 복사한다.
+
+
+https://tagilog.tistory.com/377
+https://imasoftwareengineer.tistory.com/9?category=769323
+https://velog.io/@eodyd6564/git-%EC%82%AC%EC%9A%A9%EB%B2%95

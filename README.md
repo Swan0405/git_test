@@ -33,6 +33,9 @@
 * 키워드 정리
 - 원하는 디렉토리에서 git clone [해당 프로젝트 주소] : 해당 프로젝트를 원하는 디렉토리에 복사한다.
 
+* Error 해결
+- fatal: remote origin already exists 에러 : git remote rm origin 
+
 
 https://tagilog.tistory.com/377
 https://imasoftwareengineer.tistory.com/9?category=769323
